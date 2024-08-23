@@ -9,7 +9,7 @@ I've been coding since 2 years, a guy whose has a linux background with AWS/Azur
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [iamabhijeetbhovar@gmail.com](mailto:iamabhijeetbhovar@gmail.com)
 * 🚀  I'm currently working on Dev Ops Engineer
-* 🧠  I'm learning Docker,Kubernetes and its deployment in web hosting
+* 🧠  I have knowledge of Docker,Kubernetes and its deployment also deployed numerous web applications on cloud
 * 🤝  I'm open to collaborating on Docker
 * ⚡  I love to learn many stuff and love to see ideas been implemented if you have any hit me up we might make dream come true
 
