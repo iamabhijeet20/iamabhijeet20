@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer | Cloud Computing | Tech Enthusiast
 ---------------------------------------------------
 
-I've been coding since 2 years, a guy whose has a linux background with AWS/Azure Cloud Computing ethusiast who loves to tinker the stuff and learn new things in the tech space
+I've been coding since 6 years, a guy whose has a linux background with AWS/Azure Cloud Computing ethusiast who loves to tinker the stuff and learn new things in the tech space
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [iamabhijeetbhovar@gmail.com](mailto:iamabhijeetbhovar@gmail.com)
